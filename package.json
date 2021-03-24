@@ -1,6 +1,6 @@
 {
-  "name": "scssvariablelistplugin",
-  "version": "1.0.0",
+  "name": "scss-variable-list",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
